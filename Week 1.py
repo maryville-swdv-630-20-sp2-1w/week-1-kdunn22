@@ -8,8 +8,6 @@ class Teams:
             return True
         else:
             return False
-
-
     
     def __iter__(self):
         return self
